@@ -1,0 +1,19 @@
+body {
+    background-color: aqua;
+}
+#heading1 {
+    color: red
+    font-size: 36px;
+    text-align: center;
+}
+.center {
+    color: red ;
+    font-size: 30px;
+    text-align: center;
+}
+p {
+    color: black;
+    padding: 70px;
+    border: 1px solid black;
+    margin-left: 20px;
+}
